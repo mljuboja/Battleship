@@ -1,5 +1,5 @@
 # battleship.c
-Text-based version of Battleship in C programming language.
+The function source file of the text-based version of Battleship in C programming language.
 
 /*********************************************
 * Project: Battleship                        *
